@@ -29,7 +29,8 @@ ____
    * 220 OHM Resistor X1 
    * Breadboard
    * Jumper Wires (Male to Male ) x2
-
+### Image
+[<img align="left" alt=""  src="./images/exp1.jpeg" />]
 ### Code
     int ledPin = 10; // define digital pin 10.
     void setup()
@@ -59,7 +60,8 @@ ___
   * 220Ω resistor x3
   * Breadboard x1
   * Breadboard jumper wires as needed
-
+### Image
+[<img align="left" alt=""  src="./images/exp2.jpeg" />]
 ### Code
     int red =10; // initialize digital pin 8.
     int yellow =7; // initialize digital pin 7.
@@ -100,7 +102,8 @@ ___
   * Breadboard x1
   * USB cable x1
   * Breadboard wire x13
-
+### Image
+[<img align="left" alt=""  src="./images/exp3.jpeg" />]
 ### Code
     int first= 2;  // the I/O pin for the first LED
     int last= 6;   // number of LEDs
@@ -134,7 +137,8 @@ ____
 * Breadboard*1
 * Breadboard Jumper Wire*6
 * USB cable*1
-
+### Image
+[<img align="left" alt=""  src="./images/exp4.jpeg" />]
 ### Code
     int ledpin=11;// initialize pin 11
     int inpin=3;// initialize pin 3
@@ -163,7 +167,8 @@ ____
 * Breadboard x1
 * Breadboard Jumper Wire x2
 * USB cable x1
-
+### Image
+[<img align="left" alt=""  src="./images/exp5.jpeg" />]
 ### Code
     int buzzer=8;// initialize digital IO pin that controls the buzzer
     void setup() 
@@ -219,7 +224,8 @@ ____
 ____
 
 ## Exp 7 : LDR Light Sensor
-
+### Image
+[<img align="left" alt=""  src="./images/exp7.jpeg" />]
 ### Hardware required
 * Arduino Uno Board
 * Photo Resistorx1
