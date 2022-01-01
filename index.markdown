@@ -12,7 +12,7 @@ layout: default
 
 # <u><b>About Me</b></u>
 <blockquote>
-Hi, I am  MOHAMED NIHAJ K. I am a Final year Computer engineering student  @ <a href="http://ssmpoly.ac.in/" target="_blank">SSM&nbsp; POLYTECHNIC &nbsp; COLLEGE&nbsp; TIRUR</a>Love to learn new things and I like to be updated with development in the Tech Industry. I am Fascinated  about Tech related stuff.  
+Hi, I am  MOHAMED NIHAJ K. I am a Final year Computer engineering student  @ <a href="http://ssmpoly.ac.in/" target="_blank">SSM&nbsp; POLYTECHNIC &nbsp; COLLEGE&nbsp; TIRUR&nbsp;</a>I Love to learn new things and I like to be updated with development in the Tech Industry. I am Fascinated  about Tech related stuff.  
 </blockquote>
 ____
 
